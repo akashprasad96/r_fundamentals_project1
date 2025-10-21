@@ -1,14 +1,3 @@
-##########################################
-# Author: Meghana yadav
-# Date: October 5, 2025
-# Class: ALY6000 70327
-##########################################
-
-# Environment reset (run first)
-rm(list = ls())            # clear objects
-graphics.off()             # close plots
-cat("\014")                # clear console
-
 
 # Step 1: Computing the requested arithmetic and logical expressions
 123 * 453
@@ -220,10 +209,11 @@ boxplot(salary_in_usd ~ remote_ratio, data = first_dataframe,
 # ## References
 # R Core Team (2025). *R: A Language and Environment for Statistical Computing*.  
 # Xie, Y. (2023). *knitr: A General-Purpose Package for Dynamic Report Generation in R.*  
-# All code written by the author for Yadav_Project1.
+# All code written by the author.
 
 
 ###################################
 # END
 ###################################
+
 
